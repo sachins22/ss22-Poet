@@ -41,7 +41,7 @@ function App() {
                 {/* Social Links */}
                 <div className="flex gap-6">
                   <a 
-                    href="https://www.instagram.com/creater_s01" 
+                    href="https://www.instagram.com/iam_premsakhi" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-200 hover:text-white transition-colors transform hover:-translate-y-1 duration-300"
