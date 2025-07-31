@@ -47,7 +47,7 @@ function App() {
                     className="flex items-center gap-2 text-gray-200 hover:text-white transition-colors transform hover:-translate-y-1 duration-300"
                   >
                     <Instagram className="w-5 h-5" />
-                    <span>@creater_s01</span>
+                    <span>@iam_premsakhi</span>
                   </a>
                   <a 
                     href="https://www.facebook.com/share/16JZwFCk68" 
